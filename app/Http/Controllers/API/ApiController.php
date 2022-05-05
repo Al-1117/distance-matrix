@@ -20,7 +20,6 @@ class ApiController extends Controller
 
         //$origin = '&origins='.'MM6H+QH%20Azzano%20San%20Paolo%20Provincia%20di%20Bergamo';
 
-        $api_key = '&key='.'AIzaSyDgpwkbeFTUa84KwF45ZinX9AkVSHvGLNM';
 
         //$departure_origin = trim($origin, '%');
 
